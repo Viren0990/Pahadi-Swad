@@ -47,9 +47,9 @@ export const Navbar = () => {
 
         
         <div className="hidden md:flex gap-2">
-          <Button className="bg-orange-500 hover:bg-orange-700 hover:cursor-pointers border-1 border-white">
+          <Link className="bg-orange-500 hover:bg-orange-700 hover:cursor-pointers border-1 border-white" href="/contact">
             Order Now
-          </Button>
+          </Link>
         </div>
 
         
@@ -80,9 +80,9 @@ export const Navbar = () => {
 
 
               <div>
-          <Button className="bg-orange-500 hover:bg-orange-700 hover:cursor-pointer">
+          <Link className="bg-orange-500 hover:bg-orange-700 hover:cursor-pointers border-1 border-white" href="/contact">
             Order Now
-          </Button>
+          </Link>
       </div>
             </nav>
           </div>
