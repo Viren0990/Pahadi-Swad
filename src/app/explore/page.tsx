@@ -116,7 +116,7 @@ const products: Product[] = [
     name: "करेला का अचार - Karela Pickle",
     category: "achaar",
     description: "कड़वे करेले का तीखा और स्वादिष्ट अचार",
-    price: "₹1150",
+    price: "₹150",
     image: karela,
     features: ["पौष्टिक", "तीखा-कड़वा", "500 ग्राम"]
   },
