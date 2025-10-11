@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://pahadi-swad.in", // Replace with your actual domain
+    url: "https://pahadi-swad.vercel.app/", // Replace with your actual domain
     siteName: "Pahadi Swad",
     title: "Pahadi Swad - Authentic Homemade Pickles & Masalas from Bageshwar",
     description: "Traditional homemade pickles, masalas & papads from Bageshwar, Uttarakhand. Made by 25 women artisans. 100% natural, no preservatives.",
@@ -118,7 +118,7 @@ export default function RootLayout({
               "@type": "LocalBusiness",
               name: "Pahadi Swad",
               description: "Authentic homemade pickles, masalas and papads from Bageshwar, Uttarakhand",
-              url: "https://pahadi-swad.in",
+              url: "https://pahadi-swad.vercel.app/",
               telephone: "+91-9410774291",
               email: "sunitav.4291@gmail.com",
               address: {
