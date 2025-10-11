@@ -33,7 +33,7 @@ export default function Home() {
             </div>
         
             <h1 className="text-6xl md:text-7xl font-bold text-amber-900 mb-6 font-serif">
-              पहाड़ी स्वाद
+              पहाड़ी स्वाद <br /> बागेश्वर
             </h1>
             <p className="text-2xl md:text-3xl text-orange-700 mb-4 italic">
               पहाड़ों की शुद्धता, परंपरा का स्वाद
