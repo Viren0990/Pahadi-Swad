@@ -239,7 +239,7 @@ const products: Product[] = [
 },
 {
   id: 20,
-  name: "निम्बू का नामक",
+  name: "निम्बू का नमक",
   category: "masala",
   description: "निम्बू की ताजगी और खटास से भरपूर स्वादिष्ट नमक",
   price: "₹80",
@@ -248,7 +248,7 @@ const products: Product[] = [
 },
 {
   id: 21,
-  name: "तिमुर का नामक",
+  name: "तिमुर का नमक",
   category: "masala",
   description: "पहाड़ी तिमुर के अनोखे स्वाद और सुगंध से युक्त नमक",
   price: "₹80",
@@ -257,7 +257,7 @@ const products: Product[] = [
 },
 {
   id: 22,
-  name: "अद्रक का नामक",
+  name: "अद्रक का नमक",
   category: "masala",
   description: "अदरक की ताजगी और औषधीय गुणों से भरपूर नमक",
   price: "₹80",
