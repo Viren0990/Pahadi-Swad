@@ -32,7 +32,7 @@ export const Navbar = () => {
                 />
             </div>
             <div>
-                <span className="text-amber-900 font-bold text-xl">EchoMind</span>
+                <span className="text-amber-900 font-bold text-xl">पहाड़ी स्वाद</span>
             </div>
         </div>
 
