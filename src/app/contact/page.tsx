@@ -290,7 +290,7 @@ export default function ContactPage() {
           transition={{ duration: 0.8 }}
         >
           <div className="text-center">
-            <h3 className="text-2xl font-bold text-white mb-2 font-serif">[translate:पहाड़ी स्वाद]</h3>
+            <h3 className="text-2xl font-bold text-white mb-2 font-serif">पहाड़ी स्वाद</h3>
             <p className="text-orange-200 mb-2">Pahadi Swad - Bageshwar, Uttarakhand</p>
             <p className="text-orange-200">Empowering women, preserving tradition</p>
             <div className="mt-4 border-t border-orange-800 pt-4 text-orange-200 text-sm">
