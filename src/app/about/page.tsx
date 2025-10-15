@@ -123,7 +123,7 @@ export default function AboutPage() {
             className="text-xl text-gray-700"
             variants={heroVariants}
           >
-            [translate:पहाड़ी स्वाद] - A Journey of Empowerment & Tradition
+            पहाड़ी स्वाद - A Journey of Empowerment & Tradition
           </motion.p>
         </motion.div>
       </section>
@@ -143,7 +143,7 @@ export default function AboutPage() {
           >
             <h2 className="text-3xl font-bold text-amber-900 mb-4 font-serif">[translate:शुरुआत] / The Beginning</h2>
             <p className="text-gray-800 text-lg leading-relaxed mb-4">
-              [translate:हमने 2020 में 10 महिलाओं के समूह के साथ अपना सफर शुरू किया। हर महिला का सपना था कि वह आत्मनिर्भर बने और अपने परिवार की मदद कर सके। इसी सोच के साथ] <strong className="text-orange-700">[translate:पहाड़ी स्वाद]</strong>[translate:—एक घरेलू खाद्य उत्पाद ब्रांड—का जन्म हुआ।]
+              हमने 2020 में 10 महिलाओं के समूह के साथ अपना सफर शुरू किया। हर महिला का सपना था कि वह आत्मनिर्भर बने और अपने परिवार की मदद कर सके। इसी सोच के साथ <strong className="text-orange-700">पहाड़ी स्वाद</strong>एक घरेलू खाद्य उत्पाद ब्रांड—का जन्म हुआ।
             </p>
             <p className="text-gray-700 text-base italic">
               We began our journey in 2020 with a group of 10 women. Each woman had a dream to become self-reliant ([translate:आत्मनिर्भर]) and support her family. With this vision, <strong>Pahadi Swad</strong>—a homemade food product brand—was born.
@@ -162,13 +162,13 @@ export default function AboutPage() {
               className="text-2xl font-bold text-amber-900 mb-3"
               variants={fadeInUp}
             >
-              [translate:विकास की यात्रा] / Our Growth
+              विकास की यात्रा / Our Growth
             </motion.h2>
             <motion.p 
               className="text-gray-800 text-lg leading-relaxed mb-3"
               variants={fadeInUp}
             >
-              [translate:शुरुआत में हमारे पास सिर्फ आम और मिर्च का अचार था, और उत्पादन बहुत ही सीमित था। धीरे-धीरे हमारे स्वाद और मेहनत को लोगों का प्यार मिला और आज हमारे पास 11 तरह के अचार के अलावा पापड़, मसाले, जूस, कैंडी जैसी कई घरेलू चीजें हैं।]
+              शुरुआत में हमारे पास सिर्फ आम और मिर्च का अचार था, और उत्पादन बहुत ही सीमित था। धीरे-धीरे हमारे स्वाद और मेहनत को लोगों का प्यार मिला और आज हमारे पास 11 तरह के अचार के अलावा पापड़, मसाले, जूस, कैंडी जैसी कई घरेलू चीजें हैं।
             </motion.p>
             <motion.p 
               className="text-gray-700 mb-4"
@@ -224,7 +224,7 @@ export default function AboutPage() {
           >
             <h2 className="text-2xl font-bold text-amber-900 mb-3">[translate:आज] / Today</h2>
             <p className="text-gray-800 text-lg leading-relaxed mb-3">
-              [translate:आज हमारा समूह 25 महिलाओं तक पहुंच चुका है, जो न सिर्फ आत्मनिर्भर हैं बल्कि अपने परिवार को भी सहारा दे रही हैं। हमारा उद्देश्य हर महिला को उसके पैरों पर खड़ा करना और पारंपरिक पहाड़ी स्वाद को घर-घर पहुंचाना है।]
+             आज हमारा समूह 25 महिलाओं तक पहुंच चुका है, जो न सिर्फ आत्मनिर्भर हैं बल्कि अपने परिवार को भी सहारा दे रही हैं। हमारा उद्देश्य हर महिला को उसके पैरों पर खड़ा करना और पारंपरिक पहाड़ी स्वाद को घर-घर पहुंचाना है।
             </p>
             <p className="text-gray-700">
               Today, our group has grown to 25 women who are not only self-reliant but also supporting their families. Our mission is to help every woman stand on her own feet and bring traditional Pahadi flavors to every home.
@@ -241,7 +241,7 @@ export default function AboutPage() {
           >
             <h2 className="text-2xl font-bold text-amber-900 mb-3">[translate:बागेश्वर से] / From Bageshwar</h2>
             <p className="text-gray-800 text-lg leading-relaxed mb-3">
-              [translate:हम बागेश्वर, उत्तराखंड की खूबसूरती और शुद्धता को हर बोतल और पैकेट के जरिए आपके घर तक पहुँचाने के लिए समर्पित हैं।]
+             हम बागेश्वर, उत्तराखंड की खूबसूरती और शुद्धता को हर बोतल और पैकेट के जरिए आपके घर तक पहुँचाने के लिए समर्पित हैं।
             </p>
             <p className="text-gray-700">
               We are dedicated to bringing the beauty and purity of Bageshwar, Uttarakhand to your home through every bottle and packet.
