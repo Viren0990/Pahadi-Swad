@@ -111,7 +111,7 @@ export default function AboutPage() {
             className="text-5xl md:text-7xl font-bold text-amber-900 font-serif mb-6"
             variants={heroVariants}
           >
-            [translate:हमारी कहानी]
+            हमारी कहानी
           </motion.h1>
           <motion.h2 
             className="text-3xl md:text-4xl text-orange-700 mb-4"
@@ -141,12 +141,12 @@ export default function AboutPage() {
             transition={{ duration: 0.6, ease: [0.6, -0.05, 0.01, 0.99] }}
             whileHover={{ scale: 1.02 }}
           >
-            <h2 className="text-3xl font-bold text-amber-900 mb-4 font-serif">[translate:शुरुआत] / The Beginning</h2>
+            <h2 className="text-3xl font-bold text-amber-900 mb-4 font-serif">शुरुआत / The Beginning</h2>
             <p className="text-gray-800 text-lg leading-relaxed mb-4">
               हमने 2020 में 10 महिलाओं के समूह के साथ अपना सफर शुरू किया। हर महिला का सपना था कि वह आत्मनिर्भर बने और अपने परिवार की मदद कर सके। इसी सोच के साथ <strong className="text-orange-700">पहाड़ी स्वाद</strong>एक घरेलू खाद्य उत्पाद ब्रांड—का जन्म हुआ।
             </p>
             <p className="text-gray-700 text-base italic">
-              We began our journey in 2020 with a group of 10 women. Each woman had a dream to become self-reliant ([translate:आत्मनिर्भर]) and support her family. With this vision, <strong>Pahadi Swad</strong>—a homemade food product brand—was born.
+              We began our journey in 2020 with a group of 10 women. Each woman had a dream to become self-reliant and support her family. With this vision, <strong>Pahadi Swad</strong>—a homemade food product brand—was born.
             </p>
           </motion.div>
 
@@ -222,7 +222,7 @@ export default function AboutPage() {
             transition={{ duration: 0.6, ease: [0.6, -0.05, 0.01, 0.99] }}
             whileHover={{ scale: 1.02 }}
           >
-            <h2 className="text-2xl font-bold text-amber-900 mb-3">[translate:आज] / Today</h2>
+            <h2 className="text-2xl font-bold text-amber-900 mb-3">आज / Today</h2>
             <p className="text-gray-800 text-lg leading-relaxed mb-3">
              आज हमारा समूह 25 महिलाओं तक पहुंच चुका है, जो न सिर्फ आत्मनिर्भर हैं बल्कि अपने परिवार को भी सहारा दे रही हैं। हमारा उद्देश्य हर महिला को उसके पैरों पर खड़ा करना और पारंपरिक पहाड़ी स्वाद को घर-घर पहुंचाना है।
             </p>
@@ -239,7 +239,7 @@ export default function AboutPage() {
             viewport={{ once: true, margin: "-100px" }}
             transition={{ duration: 0.6 }}
           >
-            <h2 className="text-2xl font-bold text-amber-900 mb-3">[translate:बागेश्वर से] / From Bageshwar</h2>
+            <h2 className="text-2xl font-bold text-amber-900 mb-3">बागेश्वर से / From Bageshwar</h2>
             <p className="text-gray-800 text-lg leading-relaxed mb-3">
              हम बागेश्वर, उत्तराखंड की खूबसूरती और शुद्धता को हर बोतल और पैकेट के जरिए आपके घर तक पहुँचाने के लिए समर्पित हैं।
             </p>
@@ -347,7 +347,7 @@ export default function AboutPage() {
           transition={{ duration: 0.8 }}
         >
           <div className="text-center">
-            <h3 className="text-2xl font-bold text-white mb-2 font-serif">[translate:पहाड़ी स्वाद]</h3>
+            <h3 className="text-2xl font-bold text-white mb-2 font-serif">पहाड़ी स्वाद</h3>
             <p className="text-orange-200 mb-2">Pahadi Swad - Bageshwar, Uttarakhand</p>
             <p className="text-orange-200">Empowering women, preserving tradition</p>
             <div className="mt-4 border-t border-orange-800 pt-4 text-orange-200 text-sm">
