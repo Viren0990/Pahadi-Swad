@@ -34,7 +34,6 @@ export default function AboutPage() {
             </p>
           </div>
 
-          {/* Growth Journey */}
           <div className="mb-10">
             <h2 className="text-2xl font-bold text-amber-900 mb-3">विकास की यात्रा / Our Growth</h2>
             <p className="text-gray-800 text-lg leading-relaxed mb-3">
@@ -44,7 +43,6 @@ export default function AboutPage() {
   In the beginning, we had only mango and chili pickle, with very limited production. Gradually, our taste and hard work earned people&apos;s love, and today we offer 11 varieties of pickles along with papads, masalas, juices, candies, and many other homemade products.
 </p>
 
-            {/* Stats Cards */}
             <div className="grid md:grid-cols-3 gap-4 my-6">
               <div className="bg-white border-2 border-orange-200 rounded-xl p-4 text-center shadow-md">
                 <div className="text-4xl font-bold text-orange-600 mb-1">2020</div>
